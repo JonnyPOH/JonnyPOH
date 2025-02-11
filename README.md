@@ -3,7 +3,7 @@
 **AI & Data Science | Cloud & Machine Learning**
 
 🔭 Currently working on AI-powered applications & cloud deployment  
-📫 How to reach me: **jpa.ohanlonl@gmail.com** 
+📫 How to reach me: **jpa.ohanlonl@gmail.com** <br>
 🧠 AWS Certified Machine Learning Specialist | Le Wagon Graduate  
 🤖 Exploring LLMs, AI automation, and scalable architectures  
 
@@ -13,7 +13,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" onerror="this.onerror=null; this.src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg';"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="CircleCI" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
@@ -24,6 +24,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Seaborn_logo.svg" alt="Seaborn" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
 </p>
