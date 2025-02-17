@@ -1,6 +1,6 @@
 # Hi, I'm Jonny O'Hanlon
 
-**AI & Data Science | Cloud & Machine Learning**
+**AI & Data Science | Cloud & Machine Learning | AWS**
 
 🔭 Currently working on AI-powered applications & cloud deployment  
 📫 How to reach me: **jpa.ohanlon@gmail.com** <br>
