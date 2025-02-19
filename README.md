@@ -15,12 +15,13 @@
 
 <p align="left">
   <a href="https://www.bcs.org/">
-    <img src="YOUR_BCS_IMAGE_URL_HERE" height="80" width="80" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/01/BCS_logo_2021.svg" height="80" width="80" />
   </a>
   <a href="https://aws.amazon.com/certification/certified-machine-learning-specialty/">
     <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="80" width="80" />
   </a>
 </p>
+
 
 
 
