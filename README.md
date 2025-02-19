@@ -11,10 +11,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-ohanlon/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonnyPOH)  
 
-## 🏅 Certifications:
+## 🏅 Certification
 
-![AWS Certified Machine Learning Specialty](https://img.shields.io/badge/AWS%20Machine%20Learning-Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![BCS Data Science Certified](https://img.shields.io/badge/BCS-Data%20Science%20Certified-005a9c?style=for-the-badge&logo=britishcomputer&logoColor=white)
+<p align="left">
+  <a href="https://aws.amazon.com/certification/certified-machine-learning-specialty/">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Machine-Learning-Specialty_512x512.png" width="100">
+  </a>
+  <a href="https://www.bcs.org/">
+    <img src="https://www.bcs.org/media/6686/bcs-logo.png" width="100">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1024px-Tensorflow_logo.svg.png" width="100">
+  </a>
+</p>
 
 
 
