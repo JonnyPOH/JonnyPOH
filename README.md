@@ -18,9 +18,10 @@
     <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Machine-Learning-Specialty_512x512.png" width="100">
   </a>
   <a href="https://www.bcs.org/">
-    <img src="https://www.bcs.org/media/6686/bcs-logo.png" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Bcs_logo.png" width="100">
   </a>
 </p>
+
 
 
 
