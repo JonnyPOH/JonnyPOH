@@ -20,9 +20,6 @@
   <a href="https://www.bcs.org/">
     <img src="https://www.bcs.org/media/6686/bcs-logo.png" width="100">
   </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1024px-Tensorflow_logo.svg.png" width="100">
-  </a>
 </p>
 
 
