@@ -11,6 +11,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-ohanlon/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonnyPOH)  
 
+## 🏅 Certifications:
+
+![AWS Certified Machine Learning Specialty](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Machine-Learning-Specialty_512x512.png)  
+*AWS Certified Machine Learning - Specialty*
+
+![BCS Data Science Certified](https://www.bcs.org/media/6686/bcs-logo.png)  
+*BCS Data Science Certified*
+
+
 ## 🛠️ Languages and Tools:
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="30"/>
