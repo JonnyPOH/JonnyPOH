@@ -2,7 +2,7 @@
 
 **AI & Data Science | Cloud & Machine Learning | AWS**
 
-🔭 Currently working on AI-powered applications & cloud deployment  
+🔭 working on AI-powered applications & cloud deployment  
 📫 How to reach me: **jpa.ohanlon@gmail.com** <br>
 🧠 AWS Certified Machine Learning Specialist | Le Wagon Graduate  
 🤖 Exploring LLMs, AI automation, and scalable architectures  
