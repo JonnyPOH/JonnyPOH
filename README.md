@@ -14,9 +14,14 @@
 ## 🏅 Certification
 
 <p align="left">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105114363" height="80" width = "80" /> 
-<img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="80" width = "80" /> 
+  <a href="https://www.bcs.org/">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105114363" height="80" width="80" />
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-machine-learning-specialty/">
+    <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="80" width="80" />
+  </a>
 </p>
+
 
 
 
