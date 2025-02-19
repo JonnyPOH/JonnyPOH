@@ -13,11 +13,9 @@
 
 ## 🏅 Certifications:
 
-![AWS Certified Machine Learning Specialty](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Machine-Learning-Specialty_512x512.png)  
-*AWS Certified Machine Learning - Specialty*
+![AWS Certified Machine Learning Specialty](https://img.shields.io/badge/AWS%20Machine%20Learning-Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![BCS Data Science Certified](https://img.shields.io/badge/BCS-Data%20Science%20Certified-005a9c?style=for-the-badge&logo=britishcomputer&logoColor=white)
 
-![BCS Data Science Certified](https://www.bcs.org/media/6686/bcs-logo.png)  
-*BCS Data Science Certified*
 
 
 ## 🛠️ Languages and Tools:
