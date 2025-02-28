@@ -1,4 +1,4 @@
-# Hi, I'm Jonny O'Hanlon
+# Hi - I'm Jonny O'Hanlon
 
 **AI & Data Science | Cloud & Machine Learning | AWS**
 
